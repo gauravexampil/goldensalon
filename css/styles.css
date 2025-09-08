@@ -3665,6 +3665,7 @@ td:last-child {
 }
 
 .intro-block-content__pic img {
+        object-fit: cover;
     margin        : 0;
     vertical-align: bottom;
     aspect-ratio  : 1050/600;
